@@ -1,0 +1,39 @@
+.fancy-sub-heading,
+.fancy-heading {
+  text-align: center;
+}
+
+.fancy-heading {
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 1.5rem;
+}
+.fancy-sub-heading {
+  color: #882b88;
+  margin-top: -1.5rem;
+  margin-bottom: -8rem;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 4rem;
+  letter-spacing: -0.03rem;
+  text-transform: uppercase;
+}
+
+.container {
+  line-height: 30px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+#about {
+  background: #99d6ea;
+  padding: 25px;
+  margin: 150px 0;
+  border-radius: 35px;
+}
+
+.about-image {
+  max-width: 80%;
+  max-height: auto;
+}
